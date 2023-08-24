@@ -6,7 +6,7 @@ titleSuffix: Microsoft Intune
 description: Learn how to use Microsoft Intune to create an email device profile so iOS/iPadOS devices can securely connect to company email.
 keywords:
 author: brenduns
-ms.author: brenduns
+ms.author: mandia
 manager: dougeby
 ms.date: 03/20/2020
 ms.topic: conceptual
