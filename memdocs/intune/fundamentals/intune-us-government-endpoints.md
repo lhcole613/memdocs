@@ -6,7 +6,7 @@ titleSuffix: Microsoft Intune
 description: Review US government endpoints for Intune.
 keywords:
 author: Smritib17
-ms.author: smbhardwaj
+ms.author: mandia
 manager: dougeby
 ms.date: 10/04/2021  
 ms.topic: conceptual
