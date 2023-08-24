@@ -5,7 +5,7 @@ title: Microsoft Intune Government Service Description
 description: Intune Government Service Description is designed to serve as an overview of the Microsoft Intune offering for GCC High and DoD environments.
 keywords:
 author: dougeby
-ms.author: dougeby
+ms.author: mandia
 manager: johmar
 ms.date: 06/01/2023
 ms.topic: article
