@@ -6,7 +6,7 @@ titleSuffix: Microsoft Intune
 description: Learn how to migrate your mobile device management from Microsoft 365 Basic Mobility and Security to Intune.
 keywords:
 author: Smritib17
-ms.author: smbhardwaj
+ms.author: mandia
 manager: dougeby
 ms.date: 01/04/2023
 ms.topic: how-to
